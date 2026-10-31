@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\examin7\examin7\bin\Debug\net10.0\examin7.exe
+C:\Users\HP\Desktop\examin7\examin7\bin\Debug\net10.0\examin7.deps.json
+C:\Users\HP\Desktop\examin7\examin7\bin\Debug\net10.0\examin7.runtimeconfig.json
+C:\Users\HP\Desktop\examin7\examin7\bin\Debug\net10.0\examin7.dll
+C:\Users\HP\Desktop\examin7\examin7\bin\Debug\net10.0\examin7.pdb
+C:\Users\HP\Desktop\examin7\examin7\obj\Debug\net10.0\examin7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\examin7\examin7\obj\Debug\net10.0\examin7.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\examin7\examin7\obj\Debug\net10.0\examin7.AssemblyInfo.cs
+C:\Users\HP\Desktop\examin7\examin7\obj\Debug\net10.0\examin7.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\examin7\examin7\obj\Debug\net10.0\examin7.dll
+C:\Users\HP\Desktop\examin7\examin7\obj\Debug\net10.0\refint\examin7.dll
+C:\Users\HP\Desktop\examin7\examin7\obj\Debug\net10.0\examin7.pdb
+C:\Users\HP\Desktop\examin7\examin7\obj\Debug\net10.0\examin7.genruntimeconfig.cache
+C:\Users\HP\Desktop\examin7\examin7\obj\Debug\net10.0\ref\examin7.dll
